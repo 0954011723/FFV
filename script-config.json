@@ -1,8 +1,8 @@
 {
   "scripts": {
     "com.r2studio.EndlessFrontier": {
-      "title": "321 Endless Frontier / 無盡的邊疆",
-      "versionCode": 19,
+      "title": "太空戰士15：新帝國/com.epicactiononline.ffxv.ane",
+      "versionCode": 1,
       "description": "<h3>無盡的邊疆自動玩</h3><ul><li>大幅提升開寶箱</li><li>修正升級全體士兵位置</li><li>修正購買勳章士兵位置</li><li>修正魔法商店位置</li></ul>",
       "packageName": "com.ekkorr.endlessfrontier.global",
       "downloadURL": "https://github.com/r2-studio/robotmon-scripts/raw/master/scripts/com.r2studio.EndlessFrontier/index.zip",
