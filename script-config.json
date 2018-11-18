@@ -1,28 +1,19 @@
 {
   "scripts": {
     "com.r2studio.EndlessFrontier": {
-      "title": "太空戰士15：新帝國 / 無盡的邊疆",
+      "title": "太空戰士15：新帝國 / 《Final Fantasy XV: A New Empire》",
       "versionCode": 1,
-      "description": "<h3>無盡的邊疆自動玩</h3><ul><li>大幅提升開寶箱</li><li>修正升級全體士兵位置</li><li>修正購買勳章士兵位置</li><li>修正魔法商店位置</li></ul>",
-      "packageName": "com.ekkorr.endlessfrontier.global",
+      "description": "<h3>測試新版</h3><ul><li></li><li></li><li></li><li></li></ul>",
+      "packageName": "com.epicactiononline.ffxv.ane",
       "downloadURL": "https://github.com/r2-studio/robotmon-scripts/raw/master/scripts/com.r2studio.EndlessFrontier/index.zip",
-      "dependencies": [
-        "https://github.com/r2-studio/robotmon-scripts/raw/master/libs/TaskController-0.0.1.js"
-      ]
+      "dependencies": ["https://github.com/r2-studio/robotmon-scripts/raw/master/libs/TaskController-0.0.2.js"]
     }
   },
   "libs": {
-    "RBM-0.0.1": {
-      "downloadURL": "https://github.com/r2-studio/robotmon-scripts/raw/master/libs/RBM-0.0.1.js"
-    },
-    "RBM-0.0.2": {
-      "downloadURL": "https://github.com/r2-studio/robotmon-scripts/raw/master/libs/RBM-0.0.2.js"
-    },
-    "RBM-0.0.3": {
-      "downloadURL": "https://github.com/r2-studio/robotmon-scripts/raw/master/libs/RBM-0.0.3.js"
-    },
-    "TaskController-0.0.1": {
-      "downloadURL": "https://github.com/r2-studio/robotmon-scripts/raw/master/libs/TaskController-0.0.1.js"
-    }
+    "RBM-0.0.1": { "downloadURL": "https://github.com/r2-studio/robotmon-scripts/raw/master/libs/RBM-0.0.1.js"},
+    "RBM-0.0.2": { "downloadURL": "https://github.com/r2-studio/robotmon-scripts/raw/master/libs/RBM-0.0.2.js"},
+    "RBM-0.0.3": { "downloadURL": "https://github.com/r2-studio/robotmon-scripts/raw/master/libs/RBM-0.0.3.js"},
+    "TaskController-0.0.1": { "downloadURL": "https://github.com/r2-studio/robotmon-scripts/raw/master/libs/TaskController-0.0.1.js"}
+    "TaskController-0.0.2": { "downloadURL": "https://github.com/r2-studio/robotmon-scripts/raw/master/libs/TaskController-0.0.2.js"}
   }
 }
