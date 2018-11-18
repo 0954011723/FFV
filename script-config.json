@@ -1,7 +1,7 @@
 {
   "scripts": {
     "com.r2studio.EndlessFrontier": {
-      "title": "Endless Frontier / 無盡的邊疆",
+      "title": "Endless Frontier / 無盡的邊疆 2",
       "versionCode": 19,
       "description": "<h3>無盡的邊疆自動玩</h3><ul><li>大幅提升開寶箱</li><li>修正升級全體士兵位置</li><li>修正購買勳章士兵位置</li><li>修正魔法商店位置</li></ul>",
       "packageName": "com.ekkorr.endlessfrontier.global",
